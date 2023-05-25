@@ -1,2 +1,2 @@
-# Sobre
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 Projeto Costs FullStack feito em React, tendo como apoio as aulas de Matheus Battisti do canal Hora de Codar no YouTube.
